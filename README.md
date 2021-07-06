@@ -1,10 +1,75 @@
-### Hello, I am Sarthak Khare 👋
 
-- 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning Aws
-- 👯 I’m looking to collaborate on Real-World Projects
-- 💬 Ask me about Flask or any tech related stuffs
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of my time with my system.
--->
+<!-- <h2 style = "text-align:center"> Design and Development<br><br></h2> -->
+<p align= "center">
+<img src = "https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/See%20beauty%20from%20a%20distance.gif")
+  </p>
+
+  
+  
+  <p align = "center">
+
+<h2> Hi there 👋, my name is Sarthak</h2>
+
+I am currently in my third year of Engineering. I really enjoy to do some tech related stuffs.
+</p>
+<!-- Skills: HTML / CSS / JS / BOOTSTRAP / PYTHON / MYSQL / FLASK / REACT -->
+
+
+## 🧰 Languages and Tools:
+
+<p align = "left">
+<img src="https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange-thumbnail.png" alt="html" width = "100" height="80" style="vertical-align:top; margin:4px" >
+  
+  <img src="https://w7.pngwing.com/pngs/73/762/png-transparent-html-css-design-and-build-web-sites-web-development-cascading-style-sheets-world-wide-web-web-design-text-logo-thumbnail.png" alt="Css" width = "100" height="80" style="vertical-align:top; margin:4px">
+  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width = "100" height="80" style="vertical-align:top; margin:4px">
+  
+   <img src="https://w7.pngwing.com/pngs/283/340/png-transparent-responsive-web-design-web-development-bootstrap-front-and-back-ends-web-design-purple-web-design-text-thumbnail.png" alt="Bootstrap" width = "100" height="80" style="vertical-align:top; margin:4px">
+  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width = "100" height="80" style="vertical-align:top; margin:4px">
+
+  <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="Python" width = "100" height="80" style="vertical-align:top; margin:4px">
+  
+<!-- ab -->
+    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="Python" width = "100" height="80" style="vertical-align:top; margin:4px">
+  
+  
+  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width = "100" height="80" style="vertical-align:top; margin:4px">
+</p>
+
+  
+
+
+
+
+
+
+- 🔭 I’m currently working on Personal Projects 
+- 👯 I’m looking to collaborate on on Real-World Projects 
+- 💬 Ask me about Flask or any Tech related stuffs 
+- ⚡ Fun fact: I spend most of my time with my system. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarthakkhare945)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthakkhare945/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SarthakKhare9)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+  
+  
+  
+  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sarthakkhare945)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkhare945)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthakkhare945&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sarthakkhare945)  
+
+![GitHub metrics](https://metrics.lecoq.io/Sarthakkhare945)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sarthakkhare945)  
+
+![Profile views](https://gpvc.arturio.dev/Sarthakkhare945)  
