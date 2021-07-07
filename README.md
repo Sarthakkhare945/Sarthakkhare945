@@ -17,7 +17,8 @@ I am currently in my third year of Engineering. I really enjoy to do some tech r
 
 ## 🧰 Languages and Tools:
 
-<p align = "left">
+<p align = "center">
+  
 <img src="https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange-thumbnail.png" alt="html" width = "100" height="80" style="vertical-align:top; margin:4px" >
   
   <img src="https://w7.pngwing.com/pngs/73/762/png-transparent-html-css-design-and-build-web-sites-web-development-cascading-style-sheets-world-wide-web-web-design-text-logo-thumbnail.png" alt="Css" width = "100" height="80" style="vertical-align:top; margin:4px">
@@ -28,15 +29,29 @@ I am currently in my third year of Engineering. I really enjoy to do some tech r
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width = "100" height="80" style="vertical-align:top; margin:4px">
 
-  <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="Python" width = "100" height="80" style="vertical-align:top; margin:4px">
+  <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" width = "100" height="80" style="vertical-align:top; margin:4px">
   
 <!-- ab -->
-    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="Python" width = "100" height="80" style="vertical-align:top; margin:4px">
-  
+
+  <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="Flask" width = "100" height="80" style="vertical-align:top; margin:4px">
+
+   <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="Mysql" width = "100" height="80" style="vertical-align:top; margin:4px">
+
   
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width = "100" height="80" style="vertical-align:top; margin:4px">
+ 
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" alt="Pycharm" width = "100" height="80" style="vertical-align:top; margin:4px">
+  
+    
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width = "100" height="80" style="vertical-align:top; margin:4px">
+  
+  <img src="https://static.javatpoint.com/tutorial/xampp/images/xampp-tutorial.png" alt="Xampp" width = "100" height="80" style="vertical-align:top; margin:4px">
 </p>
+
+<br>
+<br>
 
   
 
@@ -50,12 +65,14 @@ I am currently in my third year of Engineering. I really enjoy to do some tech r
 - 💬 Ask me about Flask or any Tech related stuffs 
 - ⚡ Fun fact: I spend most of my time with my system. 
 
+<h1>Connect with me</h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarthakkhare945)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthakkhare945/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SarthakKhare9)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-  
+[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAnKZbhtANZkhQpFAvOhWOnS02n7cLPRDF2A&usqp=CAU' width='100' alt='github' height='80'>](https://github.com/Sarthakkhare945)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JvNProTpWVR0URMYBQRGiq5hEAkXhPpRYg&usqp=CAU' alt='linkedin' width = '100' height='80'>](https://www.linkedin.com/in/sarthakkhare945/)  [<img src='https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png' alt='twitter' width='100' height='80'>](https://twitter.com/SarthakKhare9)  
+
+
+
   
   
   
