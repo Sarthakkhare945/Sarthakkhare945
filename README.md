@@ -3,7 +3,7 @@
  
 <br>
 <br>
-     <img src = 'https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/welcome.gif' width='900' height='500'>
+     <img src = 'https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/welcome.gif' width='900' height='400'>
  </div>
 
 
