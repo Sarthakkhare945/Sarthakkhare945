@@ -1,17 +1,19 @@
-
-<!-- <h2 style = "text-align:center"> Design and Development<br><br></h2> -->
-
-<img src = "https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/welcome.gif" width="1200" height="400">
+<div align='center'>
+ <h1>Hi there 👋, I am Sarthak</h2>
  
+<br>
+<br>
+     <img src = 'https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/welcome.gif' width='900'>
+ </div>
+
+
 
   
-  
-  <p align = "center">
+ <br> 
 
-<h2> Hi there 👋, my name is Sarthak</h2>
+
 
 I am currently in my third year of Engineering. I really enjoy to do some tech related stuffs.
-</p>
 <!-- Skills: HTML / CSS / JS / BOOTSTRAP / PYTHON / MYSQL / FLASK / REACT -->
 
 
@@ -65,15 +67,13 @@ I am currently in my third year of Engineering. I really enjoy to do some tech r
 - 💬 Ask me about Flask or any Tech related stuffs 
 - ⚡ Fun fact: I spend most of my time with my system. 
 
+
 <h1>Connect with me</h1>
 
 
 
 [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAnKZbhtANZkhQpFAvOhWOnS02n7cLPRDF2A&usqp=CAU' width='100' alt='github' height='80'>](https://github.com/Sarthakkhare945)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JvNProTpWVR0URMYBQRGiq5hEAkXhPpRYg&usqp=CAU' alt='linkedin' width = '100' height='80'>](https://www.linkedin.com/in/sarthakkhare945/)  [<img src='https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png' alt='twitter' width='100' height='80'>](https://twitter.com/SarthakKhare9)  
 
-
-
-  
   
   
 
