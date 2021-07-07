@@ -1,8 +1,8 @@
 
 <!-- <h2 style = "text-align:center"> Design and Development<br><br></h2> -->
-<p align= "center">
-<img src = "https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/See%20beauty%20from%20a%20distance.gif")
-  </p>
+
+<img src = "https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/welcome.gif" width="1200" height="400">
+ 
 
   
   
