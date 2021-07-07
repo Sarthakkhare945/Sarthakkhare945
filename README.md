@@ -2,7 +2,6 @@
  <h1>Hi there 👋, I am Sarthak</h2>
  
 <br>
-<br>
      <img src = 'https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/welcome.gif' width='900' height='auto'>
  </div>
 
