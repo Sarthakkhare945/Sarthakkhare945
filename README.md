@@ -49,6 +49,8 @@ I am currently in my third year of Engineering. I really enjoy to do some tech r
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width = "100" height="80" style="vertical-align:top; margin:4px">
   
   <img src="https://static.javatpoint.com/tutorial/xampp/images/xampp-tutorial.png" alt="Xampp" width = "100" height="80" style="vertical-align:top; margin:4px">
+ 
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg" alt="Xampp" width = "100" height="80" style="vertical-align:top; margin:4px">
 </p>
 
 <br>
