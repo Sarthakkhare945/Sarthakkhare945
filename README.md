@@ -64,7 +64,7 @@ I am currently in my third year of Engineering. I really enjoy to do some tech r
 
 
 - 🔭 I’m currently working on Personal Projects 
-- 👯 I’m looking to collaborate on on Real-World Projects 
+- 👯 I’m looking to collaborate on Real-World Projects 
 - 💬 Ask me about Flask or any Tech related stuffs 
 - ⚡ Fun fact: I spend most of my time with my system. 
 
