@@ -12,7 +12,7 @@
 
 
 
-I am currently in my third year of Engineering. I really enjoy to do some tech related stuffs.
+I am currently in my Fourth year of Engineering. I really enjoy to do some tech related stuffs.
 <!-- Skills: HTML / CSS / JS / BOOTSTRAP / PYTHON / MYSQL / FLASK / REACT -->
 
 
