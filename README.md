@@ -89,4 +89,4 @@ I am currently in my Fourth year of Engineering. I really enjoy to do some tech 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Sarthakkhare945)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sarthakkhare945)  
-https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png 
+
