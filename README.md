@@ -61,7 +61,7 @@ I am currently in my Fourth year of Engineering. I really enjoy to do some tech 
 
 
 
-
+![Profile views](https://gpvc.arturio.dev/Sarthakkhare945) 
 
 - 🔭 I’m currently working on Personal Projects 
 - 👯 I’m looking to collaborate on Real-World Projects 
@@ -89,5 +89,4 @@ I am currently in my Fourth year of Engineering. I really enjoy to do some tech 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Sarthakkhare945)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sarthakkhare945)  
-
-![Profile views](https://gpvc.arturio.dev/Sarthakkhare945)  
+ 
