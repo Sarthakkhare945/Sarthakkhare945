@@ -82,7 +82,7 @@ I am currently in my Fourth year of Engineering. I really enjoy to do some tech 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkhare945)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthakkhare945&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthakkhare945&show_icons=true&count_private=true)   -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sarthakkhare945)  
 
