@@ -67,8 +67,6 @@ I am currently in my Fourth year of Engineering. I really enjoy to do some tech 
 - 👯 I’m looking to collaborate on Real-World Projects 
 - 💬 Ask me about Flask or any Tech related stuffs 
 - ⚡ Fun fact: I spend most of my time with my system. 
-- 👨‍💻 You can also check out my **[portfolio]
-(https://sarthak-khare-portfolio.netlify.app/)**
 
 
 <h1>Connect with me</h1>
