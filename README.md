@@ -1,6 +1,5 @@
 <div align='center'>
- <h1>Hi there, I am Sarthak  <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="10px"> 
- </h1>
+ <h1>Hi there, I am Sarthak
  </h1>
 
 <br>
