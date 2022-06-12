@@ -1,6 +1,6 @@
 <div align='center'>
- <h1>Hi there, I am Sarthak</h2><h1 align="center">Hi ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
- 
+ <h1>Hi there, I am Sarthak</h2><h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+ </h1>
 <br>
      <img src = 'https://github.com/Sarthakkhare945/Sarthakkhare945/blob/main/welcome.gif' width='900' height='auto'>
  </div>
