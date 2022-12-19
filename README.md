@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on Personal Projects <br>- 👯 I’m looking to collaborate on Real-World Projects <br>- 💬 Ask me about Flask or any Tech related stuffs <br>- 👨‍💻 You can also check out my <a href="https://sarthak-khare-portfolio.netlify.app" target="_blank">Portfolio</a><br>- ⚡ Fun fact: I spend most of my time with my system. 
+ 🔭 I’m currently working on Personal Projects <br>👯 I’m looking to collaborate on Real-World Projects <br>💬 Ask me about Flask or any Tech related stuffs <br>👨‍💻 You can also check out my <a href="https://sarthak-khare-portfolio.netlify.app" target="_blank">Portfolio</a><br>⚡ Fun fact: I spend most of my time with my system. 
 
 
 ## 🌐 Socials:
