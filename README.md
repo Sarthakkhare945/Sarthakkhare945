@@ -1,5 +1,6 @@
 # 💫 About Me:
  🔭 I’m currently working on Selenium. <br>👯 I’m looking to collaborate on Real-World Projects <br>💬 Ask me about Flask or any Tech related stuffs <br>👨‍💻 You can also check out my <a href="https://sarthak-khare-portfolio.netlify.app" target="_blank">Portfolio</a><br>⚡ Fun fact: I spend most of my time with my system. 
+![Profile Views](https://komarev.com/ghpvc/?username=Sarthakkhare945&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ## 🌐 Socials:
