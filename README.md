@@ -1,7 +1,6 @@
 # 💫 About Me:
  🔭 I’m currently working on Selenium. <br>👯 I’m looking to collaborate on Real-World Projects <br>💬 Ask me about Flask or any Tech related stuffs <br>👨‍💻 You can also check out my <a href="https://sarthak-khare-portfolio.netlify.app" target="_blank">Portfolio</a><br>⚡ Fun fact: I spend most of my time with my system. 
 
-![Visitor Count](https://profile-counter.glitch.me/{Sarthakkhare945}/count.svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakhare945) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SarthakKhare9) 
 
